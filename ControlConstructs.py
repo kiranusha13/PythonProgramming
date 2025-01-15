@@ -22,13 +22,3 @@ def checkTheAge(age):
         print("Senior Citizen")
 checkTheAge(45)
 
-'''for control_variable in iterable_object'''
-
-for i in 'Kodnest':
-    print(i)
-
-for j in [10,20,30]:
-    print(j)
-
-for i in range(1,11):
-    print(i)

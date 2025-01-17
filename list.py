@@ -32,5 +32,12 @@ rem = li1.pop(4)
 print(rem)
 print(li1)
 
+#del 
+del li1[1]
+print(li1)
+
+#del li1
+# print(li1)
+
 
 
